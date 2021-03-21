@@ -7,9 +7,6 @@
         <h2 style = "text-align: center; font-size: 50px; color: orange; font-family: sans-serif"> <i> NDS </i> </h2>
     </header>
     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkRuPv7l_EScg4xmj5kr_0HZwQVYwaNZtBg&usqp=CAU" width = "720px">
-
-
-
     <h3 id = "price" style = "font-size: 30px"> Цены на технику: </h3>
     <table style = "border: 2px сплошной оранжевый"
         <tbody>
