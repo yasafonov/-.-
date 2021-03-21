@@ -28,7 +28,6 @@
                 <td style="background-color:gray;color:orange">Чайники
                 <td style="background-color:gray;color:orange">REDMOND/GALAXY/XIAOMI
             </tr>
-                
         </tbody>
     </table>
 </html>
